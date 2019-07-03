@@ -8,7 +8,7 @@ public class RemoveVowels {
            // String[] result1 = new String[2];
             result[i] +="length should be graterthan 1";
 
-            return result ;
+           // return result ;
         }
 
 

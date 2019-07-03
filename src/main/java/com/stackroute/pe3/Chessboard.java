@@ -10,11 +10,11 @@ public class Chessboard {
                     if (((i + j) % 2) == 0) {
                         //print ww in even places
                         output[i][j] = "WW";
-                        return output;
+                       // return output;
                     } else {
                         //print bb in odd places
                         output[i][j] = "BB";
-                        return output;
+                       // return output;
                     }
                 }
             }

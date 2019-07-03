@@ -10,16 +10,11 @@ public class ConsecutiveCheckTest {
     ConsecutiveCheck consecutiveCheck;
     @Before
     public  void setUp(){
-        System.out.println("Before");
-
         consecutiveCheck=new ConsecutiveCheck();
-
     }
     @After
     public void tearDown(){
-        System.out.println("After");
         consecutiveCheck=null;
-
     }
     @Test
     public void checkGivenInputArrayIsConsecutive(){

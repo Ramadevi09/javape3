@@ -11,13 +11,11 @@ public class RemoveVowelsTest {
 
     @Test @Before
     public  void setUp(){
-        System.out.println("Before");
         removeVowels=new RemoveVowels();
 
     }
     @After
     public void tearDown(){
-        System.out.println("After");
         removeVowels=null;
     }
     @Test

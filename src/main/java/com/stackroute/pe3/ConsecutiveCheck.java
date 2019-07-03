@@ -7,7 +7,8 @@ public class ConsecutiveCheck {
     public static String consecutiveCheck(String arr) {
         String result="";
         if(arr==""){
-            return "enter string";
+            result ="enter string";
+            //return result;
         }
 //split the input string based on ','
 String[] result1=arr.split(",");

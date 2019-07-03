@@ -10,12 +10,10 @@ public class StudentMarksTest {
     StudentMarks studentMarks;
     @Before
     public  void setUp(){
-        System.out.println("Before");
         studentMarks=new StudentMarks();
     }
     @After
     public void tearDown(){
-        System.out.println("After");
         studentMarks=null;
     }
     @Test
