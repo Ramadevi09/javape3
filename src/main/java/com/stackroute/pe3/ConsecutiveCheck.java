@@ -16,8 +16,10 @@ String[] result1=arr.split(",");
             //int[] differ=Integer.parseInt();
 
             int difference=Integer.parseInt(result1[i+1])-Integer.parseInt(result1[i]);
-
-            if (difference==1 || difference==-1) {
+if(i<0){
+    result +="values should not be nagative";
+}
+        else if (difference==1 || difference==-1) {
 
 
                 result += "consecutive";

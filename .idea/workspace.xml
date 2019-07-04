@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbfeeb38-2bd7-4dce-a269-01adb53894a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe3/GenerateExceptionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe3/MyExceptionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Third Assignment/com/stackroute/pe3/MyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Third Assignment/com/stackroute/pe3/MyException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Third Assignment/com/stackroute/pe3/MatrixSumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Third Assignment/com/stackroute/pe3/MatrixSumTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/GenerateExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/GenerateExceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/MyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe3/MatrixSumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe3/MatrixSumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ConsecutiveCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ConsecutiveCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe3/ConsecutiveCheckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe3/ConsecutiveCheckTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,12 +76,12 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/GenerateExceptions.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe3/GenerateExceptionsTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="316">
@@ -106,8 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ConsecutiveCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="962">
-              <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+            <state relative-caret-position="130">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -121,11 +115,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe3/ConsecutiveCheckTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="316">
+              <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#248#249#0" expanded="true" />
@@ -166,8 +160,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/FirstAndLastDateOfWeek.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/MatrixSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/Chessboard.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe3/ConsecutiveCheckTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ConsecutiveCheck.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/RemoveVowels.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe3/RemoveVowelsTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe3/StudentMarksTest.java" />
@@ -176,6 +168,8 @@
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe3/MyExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe3/GenerateExceptionsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/GenerateExceptions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ConsecutiveCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe3/ConsecutiveCheckTest.java" />
       </list>
     </option>
   </component>
@@ -314,7 +308,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GenerateExceptionsTest.generateNullPointerException">
+  <component name="RunManager" selected="JUnit.ConsecutiveCheckTest.checkGivenInputNumberIsNagativePrintErrMsg">
+    <configuration name="ConsecutiveCheckTest.checkGivenInputNumberIsNagativePrintErrMsg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Third Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe3" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe3.ConsecutiveCheckTest" />
+      <option name="METHOD_NAME" value="checkGivenInputNumberIsNagativePrintErrMsg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GenerateExceptionsTest.generateArrayIndexOutOfBoundException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Third Assignment" />
       <extension name="coverage">
@@ -379,29 +389,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyExceptionTest.givenNumberIsZeroThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Third Assignment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe3" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe3.MyExceptionTest" />
-      <option name="METHOD_NAME" value="givenNumberIsZeroThrowException" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ConsecutiveCheckTest.checkGivenInputNumberIsNagativePrintErrMsg" />
         <item itemvalue="JUnit.GenerateExceptionsTest.generateNullPointerException" />
         <item itemvalue="JUnit.GenerateExceptionsTest.generateArrayIndexOutOfBoundException" />
         <item itemvalue="JUnit.GenerateExceptionsTest.generateNagativeArrayException" />
         <item itemvalue="JUnit.GenerateExceptionsTest.generateNagiveArrayException" />
-        <item itemvalue="JUnit.MyExceptionTest.givenNumberIsZeroThrowException" />
       </list>
     </recent_temporary>
   </component>
@@ -419,9 +413,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GenerateExceptionsTest_generateNagiveArrayException - 2019.07.04 at 06h 36m 03s.xml">
-      <configuration name="GenerateExceptionsTest.generateNagiveArrayException" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GenerateExceptionsTest_generateNagativeArrayException - 2019.07.04 at 06h 36m 55s.xml">
       <configuration name="GenerateExceptionsTest.generateNagativeArrayException" configurationId="JUnit" />
     </history-entry>
@@ -449,12 +440,15 @@
     <history-entry file="GenerateExceptionsTest_generateNullPointerException - 2019.07.04 at 06h 44m 11s.xml">
       <configuration name="GenerateExceptionsTest.generateNullPointerException" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="GenerateExceptionsTest_generateNullPointerException - 2019.07.04 at 06h 45m 37s.xml">
+      <configuration name="GenerateExceptionsTest.generateNullPointerException" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="133" y="47" width="1400" height="833" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.28212702" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28212702" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -463,7 +457,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -567,29 +561,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ConsecutiveCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="962">
-          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/StudentMarks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe3/ConsecutiveCheckTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -650,7 +625,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/GenerateExceptions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
@@ -664,6 +639,25 @@
             <element signature="e#289#290#0" expanded="true" />
             <element signature="e#329#330#0" expanded="true" />
             <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ConsecutiveCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe3/ConsecutiveCheckTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -31,5 +31,10 @@ public class ConsecutiveCheckTest {
         String result=ConsecutiveCheck.consecutiveCheck("");
         assertEquals("enter string",result);
     }
+    @Test
+    public void checkGivenInputNumberIsNagativePrintErrMsg(){
+        String result=ConsecutiveCheck.consecutiveCheck("-23,-34,-85,-67,-74,-48,-45");
+        assertEquals("not consecutive",result);
+    }
 
 }
