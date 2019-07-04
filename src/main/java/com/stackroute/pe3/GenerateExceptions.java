@@ -1,25 +1,42 @@
 package com.stackroute.pe3;
 
 public class GenerateExceptions {
-    public static void main(String[] args) {
+    public String generateExceptions(int number) {
         try {
-            throw new NegativeArraySizeException();
+            int[] number1 = new int[number];
+            // throw new NegativeArraySizeException();
         } catch (NegativeArraySizeException e1) {
+            e1.printStackTrace();
             System.out.println(e1.toString());
         }
+        return "exception raised";
+    }
+public String generateIndexOutOfException(int[] number,int size) {
+    try {
+        int[] number1 = new int[size];
 
+        //throw new IndexOutOfBoundsException();
+    } catch (IndexOutOfBoundsException e2) {
+        System.out.println(e2.toString());
+        e2.printStackTrace();
+    }
+    return "exception raised";
+}
+public String generateNullPointerException(String s){
         try {
-            throw new IndexOutOfBoundsException();
-        } catch (IndexOutOfBoundsException e2) {
-            System.out.println(e2.toString());
-        }
+            //throw new NullPointerException();
+            s.split(",");
+   if(s==null){
 
-        try {
-            throw new NullPointerException();
+      }
+
         } catch (NullPointerException e3) {
             System.out.println(e3.toString());
+            e3.printStackTrace();
         }
+        return "exception raised";
     }
+
 }
 
 

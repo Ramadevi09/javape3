@@ -10,14 +10,11 @@ public class MatrixSumTest {
     MatrixSum matrixSum;
     @Before
     public  void setUp(){
-        System.out.println("Before");
         matrixSum=new MatrixSum();
 
     }
     @After
     public void tearDown(){
-        System.out.println("After");
-
 
         matrixSum=null;
     }

@@ -4,16 +4,16 @@ public class MyException {
     MyException(String message){
         message="number should be positive";
     }
-    public static void main(String[]args)throws Exception{
+    public String exceptionraising(int number)throws Exception{
         try{
-          throw new Exception();
+            int sum=number/0;
         }
-        catch (Exception e){
-            e.printStackTrace();
+        catch (Exception arthemeticException){
+            arthemeticException.printStackTrace();
         }
         finally {
             System.out.println("I will get printed");
         }
-
+return "exception raised";
     }
 }
